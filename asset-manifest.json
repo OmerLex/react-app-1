@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-app-1/static/css/main.fcdb9047.css",
+    "main.js": "/react-app-1/static/js/main.fd9aad3d.js",
+    "static/js/373.283a0a66.chunk.js": "/react-app-1/static/js/373.283a0a66.chunk.js",
+    "static/media/cake1.jpg": "/react-app-1/static/media/cake1.3afa5d59d5deaca1789d.jpg",
+    "index.html": "/react-app-1/index.html",
+    "main.fcdb9047.css.map": "/react-app-1/static/css/main.fcdb9047.css.map",
+    "main.fd9aad3d.js.map": "/react-app-1/static/js/main.fd9aad3d.js.map",
+    "373.283a0a66.chunk.js.map": "/react-app-1/static/js/373.283a0a66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcdb9047.css",
+    "static/js/main.fd9aad3d.js"
+  ]
+}
